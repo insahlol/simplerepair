@@ -1,0 +1,7 @@
+name: SimpleRepair
+author: insah
+version: 1.0.0
+main: co.insah.simplerepair.RepairPlugin
+commands:
+  repair:
+    description: Repairs all repairable items and armor in your inventory.
